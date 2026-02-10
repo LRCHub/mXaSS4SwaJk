@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Hot Mess",
+  "base_artist": "aespa",
+  "createdAt": "2026-02-10T20:20:37.039052Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hot Mess",
+      "artist": "Sam Sparro",
+      "has_synced": true,
+      "path": "select/01_Hot_Mess_Sam_Sparro.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hot Mess",
+      "artist": "Chromeo",
+      "has_synced": true,
+      "path": "select/02_Hot_Mess_Chromeo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hot Mess",
+      "artist": "Shamir",
+      "has_synced": true,
+      "path": "select/03_Hot_Mess_Shamir.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hot Mess",
+      "artist": "GIRLI",
+      "has_synced": true,
+      "path": "select/04_Hot_Mess_GIRLI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hot Mess",
+      "artist": "Cobra Starship",
+      "has_synced": true,
+      "path": "select/05_Hot_Mess_Cobra_Starship.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hot Mess (Duck Sauce remix)",
+      "artist": "Chromeo",
+      "has_synced": false,
+      "path": "select/06_Hot_Mess_(Duck_Sauce_remix)_Chromeo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hot Mess",
+      "artist": "dodie",
+      "has_synced": true,
+      "path": "select/07_Hot_Mess_dodie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hot Mess",
+      "artist": "Ashley Tisdale",
+      "has_synced": false,
+      "path": "select/08_Hot_Mess_Ashley_Tisdale.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hot Mess - DJ Cirkut Remix",
+      "artist": "Cobra Starship",
+      "has_synced": false,
+      "path": "select/09_Hot_Mess_-_DJ_Cirkut_Remix_Cobra_Starship.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hot Mess",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Hot_Mess_aespa.txt"
+    }
+  ]
+}
